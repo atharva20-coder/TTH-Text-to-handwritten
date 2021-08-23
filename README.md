@@ -20,4 +20,4 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 
 Bye!
 Have fun 🦄<br>
-<sub>This project is just for learning original project ➡ <a href="https://github.com/saurabhdaware">@saurabhdaware</a></sub>
+<sub style="color: black">This project is just for learning original project ➡ <a href="https://github.com/saurabhdaware">@saurabhdaware</a></sub>
