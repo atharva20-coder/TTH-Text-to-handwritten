@@ -23,7 +23,8 @@ body {
   overflow-x: hidden;
 }
 body.dark {
-  --background-primary: #121212;
+  /*--background-primary: #121212;*/
+  --background-primary: #22303C;
   --font-color-primary: #ccc;
   --elevation-background: #1d1d1d;
   --link-color: #09f;
