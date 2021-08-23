@@ -19,5 +19,5 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 
 
 Bye!
-Have fun 🦄
+Have fun 🦄<br>
 <sub>This project is just for learning original project ➡ <a href="https://github.com/saurabhdaware">@saurabhdaware</a></sub>
