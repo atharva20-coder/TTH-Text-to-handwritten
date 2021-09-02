@@ -40,6 +40,11 @@ body.dark {
   src: url(../fonts/Hindi_Type.ttf);
 }
 
+@font-face {
+  font-family: 'Palo_Alto';
+  src: url(../fonts/paloAlto.ttf);
+}
+
 /* Default CSS Changes */
 * {
   box-sizing: border-box;
